@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Geometric Compensation Design to Offset Mechanical Property Degradation in Recycled Aluminum Alloys for Lightweight Aerospace Structural Components"
+authors:
+  - family-names: "Rofoee"
+    given-names: "Shahrzad"
+date-released: 2026-07-23
+url: "https://github.com/Shahrzad-Rofoee/GE_Bracket_Recycled_Al_Project"
+license: MIT
